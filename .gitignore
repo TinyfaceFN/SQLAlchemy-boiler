@@ -4,3 +4,8 @@ __pycache__/
 .env
 *.log
 *.sqlite3
+/include
+venv/bin
+venv/lib
+venv/include
+venv/pyvenv
